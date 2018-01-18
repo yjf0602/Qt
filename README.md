@@ -1,5 +1,3 @@
 # QtTools
 
-Some useful tools codeed with Qt.
-
-
+Some useful tools coded with Qt.
